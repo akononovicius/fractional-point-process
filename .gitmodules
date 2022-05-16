@@ -1,0 +1,6 @@
+[submodule "stats"]
+	path = stats
+	url = https://github.com/akononovicius/python-stats
+[submodule "taudiff"]
+	path = taudiff
+	url = https://github.com/akononovicius/taudiff
