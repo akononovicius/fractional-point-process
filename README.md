@@ -18,4 +18,6 @@ figures.
 
 ## References
 
-1. (to be added later)
+1. A. Kononovicius, R. Kazakevičius, B. Kaulakys. *Resemblence between
+non-Markovian and nonlinear point processes*. (Under review).
+[arXiv:2205.07563 [cond-mat.stat-mech]](https://arxiv.org/abs/2205.07563).
